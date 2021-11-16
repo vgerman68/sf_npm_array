@@ -6,4 +6,4 @@ B4.5.1. task of array
 
   npm init -y
 
-  npm i
+  npm i 
