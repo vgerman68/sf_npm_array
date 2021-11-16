@@ -6,4 +6,4 @@ B4.5.1. task of array
 
   npm init -y
 
-  npm i sf_npm_array --save
+  npm i
