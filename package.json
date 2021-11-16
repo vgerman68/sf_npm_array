@@ -1,0 +1,19 @@
+{
+  "name": "sf_npm_array_pack",
+  "version": "1.0.0",
+  "description": "Create an array package for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\\\"JArray package!\\\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgerman68/sf_npm_array.git"
+  },
+  "author": "German Vorotnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vgerman68/sf_npm_array/issues"
+  },
+  "homepage": "https://github.com/vgerman68/sf_npm_array#readme"
+}
